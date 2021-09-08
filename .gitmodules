@@ -1,0 +1,9 @@
+[submodule "third_party/littlefs"]
+	path = third_party/littlefs
+	url = https://github.com/littlefs-project/littlefs.git
+[submodule "third_party/bearssl-esp8266"]
+	path = third_party/bearssl-esp8266
+	url = https://github.com/earlephilhower/bearssl-esp8266.git
+[submodule "third_party/mklittlefs"]
+	path = third_party/mklittlefs
+	url = https://github.com/earlephilhower/mklittlefs.git
