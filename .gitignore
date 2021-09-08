@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+build/
+sdkconfig
+sdkconfig.old
+.vscode
+
+# ignore built tool
+./tools/mklittlefs/mklittlefs
